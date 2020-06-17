@@ -1,3 +1,5 @@
-Thie is my file.
-This is my first repository and commit.
+# About me
+
+This is my about me project. It's not EVERYTHING about me but it's a start. 
+
 
